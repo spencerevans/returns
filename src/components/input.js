@@ -5,7 +5,6 @@ const Input = (title) => {
         <div className='input'>
             <input />
             <label>{title}</label>
-            
         </div>
     )
 }
